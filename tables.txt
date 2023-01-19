@@ -1,0 +1,16 @@
+
+
+CREATE TABLE EMPLOYEE (
+	empid INT,
+	empname TEXT,
+	empsal INT,
+	empdob DATE,
+	emploc TEXT
+);
+
+
+CREATE TABLE department(
+	deptid INT,
+	deptname TEXT,
+	deptloc TEXT
+);
